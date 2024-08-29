@@ -1,3 +1,5 @@
+// program to find the area and volume using c++ with classes,sturcture And objects:
+
 #include <iostream>
 using namespace std;
 // create a class
